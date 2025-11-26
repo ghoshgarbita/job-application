@@ -1,0 +1,1 @@
+his project is a web-based application developed using HTML5 and CSS3. It demonstrates my ability to create clean, responsive, and visually appealing web interfaces while adhering to best coding practices.
